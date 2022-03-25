@@ -45,7 +45,7 @@ This project is open-ended as long as meet the core **requirements**:
 - For submission please zip up the project minus the npm modules or any other files excluded by the .gitignore,
   and send it back via email. Feel free to email any questions or clarifications if unsure here.
 - For the database please provide a database dump or the SQL needed to generate it. This should include data or a way to load it.
-- This project is estimated to take anywhere from 3-8 hours based on some exposure to these concepts/env. If it takes longer feel free to submit and/or reach.
+- This project is estimated to take anywhere from 3-8 hours based on some exposure to these concepts/env. If it takes longer feel free to submit and/or reach out and let us know.
 - There is no time limit, only what you need to complete this project.
 
 Thank you,
