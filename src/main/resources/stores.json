@@ -1,0 +1,5247 @@
+[
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a464"
+    },
+    "addressLine": [
+      "3506 S. State St.",
+      "Chicago, IL 60609"
+    ],
+    "storeName": "35th & State - Bronzeville",
+    "phoneNumber": "773-536-3126",
+    "address": {
+      "streetAddressLine1": "3506 S. State St.",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606091910"
+    },
+    "openStatusText": "Open until 7:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.626746,
+        41.830878
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a465"
+    },
+    "addressLine": [
+      "111 E. Cermak Rd.",
+      "Chicago, IL 60616"
+    ],
+    "storeName": "Hilton Hotels - Cermak Rd Lobby",
+    "phoneNumber": "3123631236",
+    "address": {
+      "streetAddressLine1": "111 E. Cermak Rd.",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "60616"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.623192,
+        41.85267
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a466"
+    },
+    "addressLine": [
+      "261 W CERMAK RD",
+      "Chicago, IL 60616"
+    ],
+    "storeName": "Jaslin Hotel Chinatown",
+    "phoneNumber": "3128193096",
+    "address": {
+      "streetAddressLine1": "261 W CERMAK RD",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "60616"
+    },
+    "openStatusText": "Open until 4:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.634584,
+        41.852632
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a467"
+    },
+    "addressLine": [
+      "31 East Roosevelt Road",
+      "ABS #3345",
+      "Chicago, IL 60605"
+    ],
+    "storeName": "Wabash & Roosevelt",
+    "phoneNumber": "312-431-1988",
+    "address": {
+      "streetAddressLine1": "31 East Roosevelt Road",
+      "streetAddressLine2": "ABS #3345",
+      "streetAddressLine3": "Roosevelt & Wabash",
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606052414"
+    },
+    "openStatusText": "Open until 8:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.626055,
+        41.867243
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a468"
+    },
+    "addressLine": [
+      "1154 S Clark Street",
+      "Chicago, IL 60605"
+    ],
+    "storeName": "Target Chicago South Loop T-1889",
+    "phoneNumber": "312-212-6300",
+    "address": {
+      "streetAddressLine1": "1154 S Clark Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606052159"
+    },
+    "openStatusText": "Open until 8:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.630728,
+        41.867654
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a469"
+    },
+    "addressLine": [
+      "1340 South Canal Street",
+      "Chicago, IL 60607"
+    ],
+    "storeName": "Jewel-Osco - Chicago South Loop",
+    "phoneNumber": "312-850-3915",
+    "address": {
+      "streetAddressLine1": "1340 South Canal Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606075208"
+    },
+    "openStatusText": "Open until 8:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.639885,
+        41.864408
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a46a"
+    },
+    "addressLine": [
+      "555 S. Dearborn",
+      "Chicago, IL 60605"
+    ],
+    "storeName": "555 S. Dearborn - Dearborn Park",
+    "phoneNumber": "312-922-8910",
+    "address": {
+      "streetAddressLine1": "555 S. Dearborn",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606051586"
+    },
+    "openStatusText": "Open until 6:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.628821,
+        41.874653
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a46b"
+    },
+    "addressLine": [
+      "55 East Jackson Blvd.",
+      "Chicago, IL 60604"
+    ],
+    "storeName": "55 E. Jackson",
+    "phoneNumber": "(312) 786-9201",
+    "address": {
+      "streetAddressLine1": "55 East Jackson Blvd.",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606044466"
+    },
+    "openStatusText": "Open until 6:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.625882,
+        41.878108
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a46c"
+    },
+    "addressLine": [
+      "200 S Michigan Ave",
+      "Chicago, IL 60604"
+    ],
+    "storeName": "200 S. Michigan Avenue",
+    "phoneNumber": "3124311757",
+    "address": {
+      "streetAddressLine1": "200 S Michigan Ave",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606042402"
+    },
+    "openStatusText": "Open until 9:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.624673,
+        41.879372
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a46d"
+    },
+    "addressLine": [
+      "231 LaSalle",
+      "104",
+      "Chicago, IL 60604"
+    ],
+    "storeName": "Clark & Jackson",
+    "phoneNumber": "3125530373",
+    "address": {
+      "streetAddressLine1": "231 LaSalle",
+      "streetAddressLine2": "104",
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "60604"
+    },
+    "openStatusText": "Open until 4:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.631025,
+        41.87828
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a46e"
+    },
+    "addressLine": [
+      "131 South State",
+      "Suite 210",
+      "Chicago, IL 60603"
+    ],
+    "storeName": "State & Adams",
+    "phoneNumber": "312-977-0018",
+    "address": {
+      "streetAddressLine1": "131 South State",
+      "streetAddressLine2": "Suite 210",
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606035606"
+    },
+    "openStatusText": "Open until 6:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.627861,
+        41.879566
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a46f"
+    },
+    "addressLine": [
+      "233 S Wacker Dr",
+      "Chicago, IL 60606"
+    ],
+    "storeName": "Wacker & Adams - Willis Tower",
+    "phoneNumber": "3125990906",
+    "address": {
+      "streetAddressLine1": "233 S Wacker Dr",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "60606"
+    },
+    "openStatusText": "Open until 5:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.636385,
+        41.879037
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a470"
+    },
+    "addressLine": [
+      "39 S. LaSalle Street",
+      "Chicago, IL 60603"
+    ],
+    "storeName": "LaSalle & Monroe",
+    "phoneNumber": "312-781-0854",
+    "address": {
+      "streetAddressLine1": "39 S. LaSalle Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606031603"
+    },
+    "openStatusText": "Open until 6:30 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.632144,
+        41.88079
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a471"
+    },
+    "addressLine": [
+      "500 West Jackson Boulevard",
+      "Chicago, IL 60661"
+    ],
+    "storeName": "Union Station Chicago",
+    "phoneNumber": "3129192584",
+    "address": {
+      "streetAddressLine1": "500 West Jackson Boulevard",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606615810"
+    },
+    "openStatusText": "Open until 7:30 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.639029,
+        41.879035
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a472"
+    },
+    "addressLine": [
+      "8 N. Michigan Avenue",
+      "Chicago, IL 60602"
+    ],
+    "storeName": "8 North Michigan",
+    "phoneNumber": "3127501454",
+    "address": {
+      "streetAddressLine1": "8 N. Michigan Avenue",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606024896"
+    },
+    "openStatusText": "Open until 8:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.624954,
+        41.882653
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a473"
+    },
+    "addressLine": [
+      "1346 E 53rd St",
+      "Chicago, IL 60615"
+    ],
+    "storeName": "Target Hyde Park",
+    "phoneNumber": "773-358-4139",
+    "address": {
+      "streetAddressLine1": "1346 E 53rd St",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "60615"
+    },
+    "openStatusText": "Open until 8:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.59405,
+        41.799707
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a474"
+    },
+    "addressLine": [
+      "940 W Harrison St",
+      "Chicago, IL 60607"
+    ],
+    "storeName": "UIC East Residential/Academic",
+    "phoneNumber": "3124132106",
+    "address": {
+      "streetAddressLine1": "940 W Harrison St",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "60607"
+    },
+    "openStatusText": "Open until 5:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.650082,
+        41.87474
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a476"
+    },
+    "addressLine": [
+      "139 South Clinton",
+      "Chicago, IL 60661"
+    ],
+    "storeName": "Clinton & Adams-Metropolitan Place",
+    "phoneNumber": "(312) 756-9087",
+    "address": {
+      "streetAddressLine1": "139 South Clinton",
+      "streetAddressLine2": null,
+      "streetAddressLine3": "Metroplitan Place",
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606613615"
+    },
+    "openStatusText": "Open until 5:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.640915,
+        41.879407
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a475"
+    },
+    "addressLine": [
+      "25 E Washington Blvd",
+      "Chicago, IL 60602"
+    ],
+    "storeName": "25 East Washington",
+    "phoneNumber": "312-920-0473",
+    "address": {
+      "streetAddressLine1": "25 E Washington Blvd",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606021708"
+    },
+    "openStatusText": "Open until 7:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.626424,
+        41.883122
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a477"
+    },
+    "addressLine": [
+      "111 N. State St.",
+      "Chicago, IL 60602"
+    ],
+    "storeName": "Macys - Chicago/Lower Level",
+    "phoneNumber": "312-781-3129",
+    "address": {
+      "streetAddressLine1": "111 N. State St.",
+      "streetAddressLine2": null,
+      "streetAddressLine3": "Marshall Fields Department Store",
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606021659"
+    },
+    "openStatusText": "Open until 4:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.62722,
+        41.883716
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a478"
+    },
+    "addressLine": [
+      "200 West Madison",
+      "Chicago, IL 60606"
+    ],
+    "storeName": "Madison & Wells",
+    "phoneNumber": "312-726-6620",
+    "address": {
+      "streetAddressLine1": "200 West Madison",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606063414"
+    },
+    "openStatusText": "Open until 5:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.634059,
+        41.882235
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a479"
+    },
+    "addressLine": [
+      "30 N LaSalle St.",
+      "Suite 100B",
+      "Chicago, IL 60602"
+    ],
+    "storeName": "30 N. LaSalle",
+    "phoneNumber": "312-263-0925",
+    "address": {
+      "streetAddressLine1": "30 N LaSalle St.",
+      "streetAddressLine2": "Suite 100B",
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606022590"
+    },
+    "openStatusText": "Open until 5:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.632622,
+        41.882921
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a47a"
+    },
+    "addressLine": [
+      "1530 East 53rd Street",
+      "Chicago, IL 60615"
+    ],
+    "storeName": "S. Lake Park & E. 53rd - Hyde Park",
+    "phoneNumber": "7733241241",
+    "address": {
+      "streetAddressLine1": "1530 East 53rd Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606154503"
+    },
+    "openStatusText": "Open until 8:30 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.587608,
+        41.799755
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a47c"
+    },
+    "addressLine": [
+      "151 N. Michigan Ave.",
+      "C-24",
+      "Chicago, IL 60601"
+    ],
+    "storeName": "Millennium Station - Underground",
+    "phoneNumber": "312-297-0929",
+    "address": {
+      "streetAddressLine1": "151 N. Michigan Ave.",
+      "streetAddressLine2": "C-24",
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606017506"
+    },
+    "openStatusText": "Open until 4:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.624107,
+        41.885111
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a47b"
+    },
+    "addressLine": [
+      "111 N. State St.",
+      "Chicago, IL 60602"
+    ],
+    "storeName": "Macys - Chicago/First Floor",
+    "phoneNumber": "312-781-4400",
+    "address": {
+      "streetAddressLine1": "111 N. State St.",
+      "streetAddressLine2": null,
+      "streetAddressLine3": "The Miracle Mile - Marshall Fields",
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606021659"
+    },
+    "openStatusText": "Open until 7:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.62645,
+        41.884333
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a47d"
+    },
+    "addressLine": [
+      "1940 W 33rd St",
+      "Chicago, IL 60608"
+    ],
+    "storeName": "Target Chicago McKinley Park T-2078",
+    "phoneNumber": "773-843-9121",
+    "address": {
+      "streetAddressLine1": "1940 W 33rd St",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606086107"
+    },
+    "openStatusText": "Open until 8:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.674862,
+        41.835532
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a47e"
+    },
+    "addressLine": [
+      "500 W. Madison",
+      "G-016",
+      "Chicago, IL 60661"
+    ],
+    "storeName": "OTC",
+    "phoneNumber": "3128339560",
+    "address": {
+      "streetAddressLine1": "500 W. Madison",
+      "streetAddressLine2": "G-016",
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606614544"
+    },
+    "openStatusText": "Open until 6:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.640544,
+        41.882068
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a47f"
+    },
+    "addressLine": [
+      "200 North Michigan Avenue",
+      "Chicago, IL 60601"
+    ],
+    "storeName": "200 North Michigan Avenue",
+    "phoneNumber": "3125219788",
+    "address": {
+      "streetAddressLine1": "200 North Michigan Avenue",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606015909"
+    },
+    "openStatusText": "Open until 9:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.624818,
+        41.885936
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a480"
+    },
+    "addressLine": [
+      "171 W. Randolph",
+      "Chicago, IL 60601"
+    ],
+    "storeName": "Randolph & Wells",
+    "phoneNumber": "3123325298",
+    "address": {
+      "streetAddressLine1": "171 W. Randolph",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606013121"
+    },
+    "openStatusText": "Open until 8:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.633691,
+        41.884346
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a481"
+    },
+    "addressLine": [
+      "161 North Clark Street",
+      "Suite 170",
+      "Chicago, IL 60601"
+    ],
+    "storeName": "161 N Clark",
+    "phoneNumber": "(312) 641-0320",
+    "address": {
+      "streetAddressLine1": "161 North Clark Street",
+      "streetAddressLine2": "Suite 170",
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606013203"
+    },
+    "openStatusText": "Open until 5:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.63076,
+        41.885117
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a482"
+    },
+    "addressLine": [
+      "1430 W. Taylor St.",
+      "Chicago, IL 60607"
+    ],
+    "storeName": "1430 W. Taylor - University Village",
+    "phoneNumber": "312-492-7370",
+    "address": {
+      "streetAddressLine1": "1430 W. Taylor St.",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606074623"
+    },
+    "openStatusText": "Open until 7:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.662994,
+        41.86942
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a483"
+    },
+    "addressLine": [
+      "1174 East 55th Streeet",
+      "Chicago, IL 60615"
+    ],
+    "storeName": "55th & Woodlawn - Hyde Park",
+    "phoneNumber": "773-256-1930",
+    "address": {
+      "streetAddressLine1": "1174 East 55th Streeet",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606155115"
+    },
+    "openStatusText": "Open until 8:30 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.596777,
+        41.79521
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a484"
+    },
+    "addressLine": [
+      "116 S. Halsted St.",
+      "Chicago, IL 60661"
+    ],
+    "storeName": "Halsted & Monroe - Greek Town",
+    "phoneNumber": "312-226-3658",
+    "address": {
+      "streetAddressLine1": "116 S. Halsted St.",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606613508"
+    },
+    "openStatusText": "Open until 7:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.647459,
+        41.879906
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a485"
+    },
+    "addressLine": [
+      "35 E. Wacker Dr",
+      "Chicago, IL 60601"
+    ],
+    "storeName": "35 East Wacker Drive",
+    "phoneNumber": "312-541-8317",
+    "address": {
+      "streetAddressLine1": "35 E. Wacker Dr",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606012314"
+    },
+    "openStatusText": "Open until 5:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.627003,
+        41.886658
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a486"
+    },
+    "addressLine": [
+      "333 N. Michigan Avenue",
+      "Chicago, IL 60601"
+    ],
+    "storeName": "333 N. Michigan Avenue",
+    "phoneNumber": "3129654360",
+    "address": {
+      "streetAddressLine1": "333 N. Michigan Avenue",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606013901"
+    },
+    "openStatusText": "Open until 8:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.62443,
+        41.887721
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a487"
+    },
+    "addressLine": [
+      "1101 W Jackson Blvd",
+      "Chicago, IL 60607"
+    ],
+    "storeName": "Target Chicago T-2781",
+    "phoneNumber": "312-279-3340",
+    "address": {
+      "streetAddressLine1": "1101 W Jackson Blvd",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606072905"
+    },
+    "openStatusText": "Open until 8:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.654769,
+        41.877681
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a488"
+    },
+    "addressLine": [
+      "150 N. Riverside",
+      "250",
+      "Chicago, IL 60606"
+    ],
+    "storeName": "150 N. Riverside",
+    "phoneNumber": "3125199458",
+    "address": {
+      "streetAddressLine1": "150 N. Riverside",
+      "streetAddressLine2": "250",
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606061598"
+    },
+    "openStatusText": "Open until 5:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.638489,
+        41.885486
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a48a"
+    },
+    "addressLine": [
+      "1001A West Madison Avenue",
+      "Chicago, IL 60607"
+    ],
+    "storeName": "Madison & Morgan",
+    "phoneNumber": "312-421-7073",
+    "address": {
+      "streetAddressLine1": "1001A West Madison Avenue",
+      "streetAddressLine2": null,
+      "streetAddressLine3": "Corner of Madison & Morgan",
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606072007"
+    },
+    "openStatusText": "Open until 7:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.652168,
+        41.881548
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a48b"
+    },
+    "addressLine": [
+      "600 W. Lake St.",
+      "Chicago, IL 60661"
+    ],
+    "storeName": "Lake & Jefferson - West Loop",
+    "phoneNumber": "312-575-0221",
+    "address": {
+      "streetAddressLine1": "600 W. Lake St.",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606611404"
+    },
+    "openStatusText": "Open until 6:30 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.643013,
+        41.88595
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a489"
+    },
+    "addressLine": [
+      "455 North Park Drive",
+      "Chicago, IL 60611"
+    ],
+    "storeName": "Loews Chicago Hotel",
+    "phoneNumber": "3128406600",
+    "address": {
+      "streetAddressLine1": "455 North Park Drive",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "60611"
+    },
+    "openStatusText": "Open until 3:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.61966,
+        41.890285
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a48c"
+    },
+    "addressLine": [
+      "401 E Illinois Street",
+      "Chicago, IL 60611"
+    ],
+    "storeName": "Target Express Streeterville",
+    "phoneNumber": "3128941764",
+    "address": {
+      "streetAddressLine1": "401 E Illinois Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "60611"
+    },
+    "openStatusText": "Open until 8:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.617191,
+        41.891044
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a48d"
+    },
+    "addressLine": [
+      "444 N Michigan Avenue",
+      "Chicago, IL 60611"
+    ],
+    "storeName": "444 North Michigan",
+    "phoneNumber": "(312) 832-9851",
+    "address": {
+      "streetAddressLine1": "444 N Michigan Avenue",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606113903"
+    },
+    "openStatusText": "Open until 9:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.624469,
+        41.890629
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a48e"
+    },
+    "addressLine": [
+      "430 N. Clark",
+      "Chicago, IL 60654"
+    ],
+    "storeName": "430 N. Clark",
+    "phoneNumber": "(312) 670-3920",
+    "address": {
+      "streetAddressLine1": "430 N. Clark",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606544517"
+    },
+    "openStatusText": "Open until 8:30 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.631329,
+        41.890187
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a48f"
+    },
+    "addressLine": [
+      "505 N Michigan Ave",
+      "Chicago, IL 60611"
+    ],
+    "storeName": "Intercontinental Hotel-Chicago-Lobb",
+    "phoneNumber": "312-321-8788",
+    "address": {
+      "streetAddressLine1": "505 N Michigan Ave",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "60611"
+    },
+    "openStatusText": "Open until 6:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.623865,
+        41.891396
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a491"
+    },
+    "addressLine": [
+      "515 N State St",
+      "Chicago, IL 60611"
+    ],
+    "storeName": "Grand & Wabash",
+    "phoneNumber": "3128360351",
+    "address": {
+      "streetAddressLine1": "515 N State St",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "60611"
+    },
+    "openStatusText": "Open until 9:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.627008,
+        41.891583
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a492"
+    },
+    "addressLine": [
+      "414 N. Orleans",
+      "Chicago, IL 60654"
+    ],
+    "storeName": "414 N. Orleans",
+    "phoneNumber": "312-467-1173",
+    "address": {
+      "streetAddressLine1": "414 N. Orleans",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606544421"
+    },
+    "openStatusText": "Open until 7:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.637254,
+        41.889659
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a490"
+    },
+    "addressLine": [
+      "5700 South Drexel Avenue",
+      "Chicago, IL 60637"
+    ],
+    "storeName": "University of Chicago Medical Cente",
+    "phoneNumber": "773-926-1363",
+    "address": {
+      "streetAddressLine1": "5700 South Drexel Avenue",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "60637"
+    },
+    "openStatusText": "Open until 6:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.604887,
+        41.788703
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a494"
+    },
+    "addressLine": [
+      "1000 W Randolph",
+      "Chicago, IL 60607"
+    ],
+    "storeName": "Randolph & Morgan Princi",
+    "phoneNumber": "8474181323",
+    "address": {
+      "streetAddressLine1": "1000 W Randolph",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "60607"
+    },
+    "openStatusText": "Open until 7:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.652418,
+        41.884571
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a495"
+    },
+    "addressLine": [
+      "401 E. Ontario",
+      "Chicago, IL 60611"
+    ],
+    "storeName": "401 East Ontario",
+    "phoneNumber": "312-951-7242",
+    "address": {
+      "streetAddressLine1": "401 E. Ontario",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606113051"
+    },
+    "openStatusText": "Open until 7:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.617572,
+        41.893315
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd123f4cad5d53869a493"
+    },
+    "addressLine": [
+      "946 W. Randolph St.",
+      "Chicago, IL 60607"
+    ],
+    "storeName": "Randolph & Morgan - West Loop",
+    "phoneNumber": "312-850-0079",
+    "address": {
+      "streetAddressLine1": "946 W. Randolph St.",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Chicago",
+      "countrySubdivisionCode": "IL",
+      "countryCode": "US",
+      "postalCode": "606072238"
+    },
+    "openStatusText": "Open until 7:00 PM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.651888,
+        41.884603
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a496"
+    },
+    "addressLine": [
+      "Ground Floor, VR Bangalore",
+      "Whitefield Road",
+      "Bangalore, KA 560048"
+    ],
+    "storeName": "VR Mall",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Ground Floor, VR Bangalore",
+      "streetAddressLine2": "Whitefield Road",
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560048"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.549149,
+        12.98036
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a497"
+    },
+    "addressLine": [
+      "Upper grd flr,Mantri Mall,Mantri Sq No1",
+      "Sampangiram Nagar, Malleswaram",
+      "Bangalore, KA 560003"
+    ],
+    "storeName": "Malleswaram - Mantri Mall",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Upper grd flr,Mantri Mall,Mantri Sq No1",
+      "streetAddressLine2": "Sampangiram Nagar, Malleswaram",
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560003"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.570974,
+        12.991579
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a498"
+    },
+    "addressLine": [
+      "Shop 416, GF Orion Mall, Brigade Gateway",
+      "Dr Rajkumar Road, Rajajinagar",
+      "Bangalore, KA 560055"
+    ],
+    "storeName": "Brigade Orion",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Shop 416, GF Orion Mall, Brigade Gateway",
+      "streetAddressLine2": "Dr Rajkumar Road, Rajajinagar",
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560055"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.555153,
+        13.011188
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a499"
+    },
+    "addressLine": [
+      "Prestige Trade Tower, Sampangiram Nagar",
+      "The Courtyard, Ground Floor",
+      "Bengaluru, KA 560001"
+    ],
+    "storeName": "Prestige Trade Tower",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Prestige Trade Tower, Sampangiram Nagar",
+      "streetAddressLine2": "The Courtyard, Ground Floor",
+      "streetAddressLine3": null,
+      "city": "Bengaluru",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560001"
+    },
+    "openStatusText": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.587648,
+        12.985858
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a49c"
+    },
+    "addressLine": [
+      "#55, Ground Floor, Prestige RR Building",
+      "Church Street",
+      "Bangalore, MH 560001"
+    ],
+    "storeName": "Church Street",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "#55, Ground Floor, Prestige RR Building",
+      "streetAddressLine2": "Church Street",
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "MH",
+      "countryCode": "IN",
+      "postalCode": "560001"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.607313,
+        12.974505
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a49a"
+    },
+    "addressLine": [
+      "403, Ground Floor",
+      "8th Main Road, Sadashiv Nagar",
+      "Bangalore, KA 560080"
+    ],
+    "storeName": "Sadashiv Nagar",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "403, Ground Floor",
+      "streetAddressLine2": "8th Main Road, Sadashiv Nagar",
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560080"
+    },
+    "openStatusText": "Open until 1:00 AM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.580163,
+        13.008923
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a49d"
+    },
+    "addressLine": [
+      "Shop No 275, Kamaraj Road",
+      "Ulsoor, Sivanchetti Gardens",
+      "Bangalore, KA 560042"
+    ],
+    "storeName": "Westside - Commercial Street",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Shop No 275, Kamaraj Road",
+      "streetAddressLine2": "Ulsoor, Sivanchetti Gardens",
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560042"
+    },
+    "openStatusText": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.610773,
+        12.982608
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a49e"
+    },
+    "addressLine": [
+      "MG Road",
+      "Bangalore",
+      "Bangalore, KA 560001"
+    ],
+    "storeName": "MG Road",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "MG Road",
+      "streetAddressLine2": "Bangalore",
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560001"
+    },
+    "openStatusText": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.619546,
+        12.972718
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a49b"
+    },
+    "addressLine": [
+      "Bangalore",
+      "Vittal Mallya Road",
+      "Bangalore, KA 560001"
+    ],
+    "storeName": "Vittal Mallya Road",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Bangalore",
+      "streetAddressLine2": "Vittal Mallya Road",
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560001"
+    },
+    "openStatusText": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.595506,
+        12.97148
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a49f"
+    },
+    "addressLine": [
+      "Jaya Nagar Main Road Bangalore",
+      "Bangalore, KA 560041"
+    ],
+    "storeName": "Jaya Nagar",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Jaya Nagar Main Road Bangalore",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560041"
+    },
+    "openStatusText": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.593728,
+        12.924997
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4a0"
+    },
+    "addressLine": [
+      "#115, GF, 7th Block, Opp Raheja Arcade",
+      "Near Forum Mall, Koramangla Industrial Layout",
+      "Bangalore, KA 560095"
+    ],
+    "storeName": "Koramangala",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "#115, GF, 7th Block, Opp Raheja Arcade",
+      "streetAddressLine2": "Near Forum Mall, Koramangla Industrial Layout",
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560095"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.613424,
+        12.935089
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4a1"
+    },
+    "addressLine": [
+      "#15/16, LA Classic Building, 100 Feet Ring Road",
+      "KAS Officer HBCS Layout, 4th Phase, JP Nagar",
+      "Bangalore, KA 560078"
+    ],
+    "storeName": "JP Nagar",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "#15/16, LA Classic Building, 100 Feet Ring Road",
+      "streetAddressLine2": "KAS Officer HBCS Layout, 4th Phase, JP Nagar",
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560078"
+    },
+    "openStatusText": "Open until 1:00 AM",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.593772,
+        12.90601
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4a3"
+    },
+    "addressLine": [
+      "49, Bannerghatta Main Rd, Dollars Colony",
+      "JP Nagar",
+      "Bangalore, KA 560076"
+    ],
+    "storeName": "Vega Mall",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "49, Bannerghatta Main Rd, Dollars Colony",
+      "streetAddressLine2": "JP Nagar",
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560076"
+    },
+    "openStatusText": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.601523,
+        12.908465
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4a2"
+    },
+    "addressLine": [
+      "Grd Flr, Samrat Bldg, HAL II Stage",
+      "100 ft Rd, Indiranagar",
+      "Bangalore, KA 560038"
+    ],
+    "storeName": "Indiranagar",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Grd Flr, Samrat Bldg, HAL II Stage",
+      "streetAddressLine2": "100 ft Rd, Indiranagar",
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560038"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.641704,
+        12.965514
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4a4"
+    },
+    "addressLine": [
+      "Koramangala",
+      "Unit 756, Ground Floor, 80ft. Rd.",
+      "Bengaluru, KA 560034"
+    ],
+    "storeName": "Koramangala 80ft. Rd.",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Koramangala",
+      "streetAddressLine2": "Unit 756, Ground Floor, 80ft. Rd.",
+      "streetAddressLine3": null,
+      "city": "Bengaluru",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560034"
+    },
+    "openStatusText": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.631604,
+        12.932317
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4a5"
+    },
+    "addressLine": [
+      "Kalyan Nagar",
+      "Kammanahalli-Banaswadi",
+      "Bangaluru, KA 560043"
+    ],
+    "storeName": "Kammanahali",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Kalyan Nagar",
+      "streetAddressLine2": "Kammanahalli-Banaswadi",
+      "streetAddressLine3": null,
+      "city": "Bangaluru",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560043"
+    },
+    "openStatusText": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.642831,
+        13.017887
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4a8"
+    },
+    "addressLine": [
+      "Outer Ring Road, Bellandur",
+      "Bengaluru, KA 560103"
+    ],
+    "storeName": "Pritech Park",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Outer Ring Road, Bellandur",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Bengaluru",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560103"
+    },
+    "openStatusText": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.681347,
+        12.923752
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4a6"
+    },
+    "addressLine": [
+      "Ground Floor, RMZ Infinity, The Bay",
+      "#3 Old Madras Road, Benniganahalli",
+      "Bangalore, KA 560016"
+    ],
+    "storeName": "RMZ Infinity",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Ground Floor, RMZ Infinity, The Bay",
+      "streetAddressLine2": "#3 Old Madras Road, Benniganahalli",
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560016"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.661074,
+        12.994219
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4a7"
+    },
+    "addressLine": [
+      "Ambedkar Colony, Yelahanka",
+      "Bangaluru, KA 560064"
+    ],
+    "storeName": "RMZ Galleria Mall",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Ambedkar Colony, Yelahanka",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Bangaluru",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560064"
+    },
+    "openStatusText": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.595234,
+        13.094279
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4a9"
+    },
+    "addressLine": [
+      "Upper Ground Floor, #67, Phoenix Market City",
+      "Whitefield Road, Mahadevapura",
+      "Bangalore, KA 560048"
+    ],
+    "storeName": "Mahadevapura",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Upper Ground Floor, #67, Phoenix Market City",
+      "streetAddressLine2": "Whitefield Road, Mahadevapura",
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560048"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.696733,
+        12.996324
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4aa"
+    },
+    "addressLine": [
+      "Chandana",
+      "Bangalore, KA 0000"
+    ],
+    "storeName": "Goldman Sachs",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Chandana",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "0000"
+    },
+    "openStatusText": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.689091,
+        12.936962
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4ac"
+    },
+    "addressLine": [
+      "Outer Ring Road, Devarabisanahalli",
+      "Unit 3, 4 and 5, Block F, Ground Floor",
+      "Bengaluru, KA 560103"
+    ],
+    "storeName": "Embassy Tech Village",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Outer Ring Road, Devarabisanahalli",
+      "streetAddressLine2": "Unit 3, 4 and 5, Block F, Ground Floor",
+      "streetAddressLine3": null,
+      "city": "Bengaluru",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560103"
+    },
+    "openStatusText": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.692527,
+        12.933975
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4ab"
+    },
+    "addressLine": [
+      "GF Food court building, Pritech E80 Park",
+      "Inside Ecospace, SEZ, Bellandur",
+      "Bangalore, KA 560037"
+    ],
+    "storeName": "RMZ Ecoworld",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "GF Food court building, Pritech E80 Park",
+      "streetAddressLine2": "Inside Ecospace, SEZ, Bellandur",
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560037"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.686519,
+        12.925362
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4ad"
+    },
+    "addressLine": [
+      "Ground floor, Prestige Shantiniketan",
+      "Crescent 4, Whitefield Main Road",
+      "Bangalore, KA 560048"
+    ],
+    "storeName": "Whitefield",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Ground floor, Prestige Shantiniketan",
+      "streetAddressLine2": "Crescent 4, Whitefield Main Road",
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560048"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.729296,
+        12.991132
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4ae"
+    },
+    "addressLine": [
+      "Whitefield Main Rd.",
+      "Ground Floor, Ascendas Park Square Mall",
+      "Bengaluru, KA 560066"
+    ],
+    "storeName": "Park Square Mall",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Whitefield Main Rd.",
+      "streetAddressLine2": "Ground Floor, Ascendas Park Square Mall",
+      "streetAddressLine3": null,
+      "city": "Bengaluru",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560066"
+    },
+    "openStatusText": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.736451,
+        12.987266
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4af"
+    },
+    "addressLine": [
+      "Whitefield",
+      "Bangalore, KA 122009"
+    ],
+    "storeName": "UKN Miraya Rose, Whitefield",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Whitefield",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "122009"
+    },
+    "openStatusText": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.74985,
+        12.969831
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4b0"
+    },
+    "addressLine": [
+      "Bangalore International Airport",
+      "Bangalore, KA 560300"
+    ],
+    "storeName": "BIAL International Departure",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Bangalore International Airport",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Bangalore",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560300"
+    },
+    "openStatusText": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.706582,
+        13.198645
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4b1"
+    },
+    "addressLine": [
+      "Quad Area Devanahalli",
+      "Kempegowda International Airport",
+      "Bengaluru, KA 560300"
+    ],
+    "storeName": "BIAL Quad",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Quad Area Devanahalli",
+      "streetAddressLine2": "Kempegowda International Airport",
+      "streetAddressLine3": null,
+      "city": "Bengaluru",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "560300"
+    },
+    "openStatusText": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.709451,
+        13.20028
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbdd147f4cad5d53869a4b2"
+    },
+    "addressLine": [
+      "Bangalore - Tirupati Highway",
+      "NH4, Kolar, Vadagur",
+      "Vadagur, KA 563101"
+    ],
+    "storeName": "Bangalore Kolar Highway",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "Bangalore - Tirupati Highway",
+      "streetAddressLine2": "NH4, Kolar, Vadagur",
+      "streetAddressLine3": null,
+      "city": "Vadagur",
+      "countrySubdivisionCode": "KA",
+      "countryCode": "IN",
+      "postalCode": "563101"
+    },
+    "openStatusText": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.20914,
+        13.138487
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a03598"
+    },
+    "addressLine": [
+      "120 S. Los Angeles Street",
+      "#110",
+      "Los Angeles, CA 90012"
+    ],
+    "storeName": "1st & Los Angeles (Doubletree)",
+    "phoneNumber": "213-687-9849",
+    "address": {
+      "streetAddressLine1": "120 S. Los Angeles Street",
+      "streetAddressLine2": "#110",
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900123724"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.242203,
+        34.050864
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a03599"
+    },
+    "addressLine": [
+      "232 East 2nd Street",
+      "Los Angeles, CA 90012"
+    ],
+    "storeName": "2nd & San Pedro",
+    "phoneNumber": "(213) 266-1207",
+    "address": {
+      "streetAddressLine1": "232 East 2nd Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900124082"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.242036,
+        34.049327
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a0359a"
+    },
+    "addressLine": [
+      "217 N. Hill Street",
+      "Los Angeles, CA 90012"
+    ],
+    "storeName": "Grand & 1st (Grand Park)",
+    "phoneNumber": "(213) 625-2205",
+    "address": {
+      "streetAddressLine1": "217 N. Hill Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900122705"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.246984,
+        34.056126
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a0359b"
+    },
+    "addressLine": [
+      "138 S. Central Avenue",
+      "Los Angeles, CA 90012"
+    ],
+    "storeName": "2nd & Central",
+    "phoneNumber": "213-613-0393",
+    "address": {
+      "streetAddressLine1": "138 S. Central Avenue",
+      "streetAddressLine2": null,
+      "streetAddressLine3": "Office Depot Center",
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900123913"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.23902,
+        34.047996
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a0359c"
+    },
+    "addressLine": [
+      "350 South Grand Avenue",
+      "Suite #B-5",
+      "Los Angeles, CA 90071"
+    ],
+    "storeName": "Two Cal Plaza",
+    "phoneNumber": "(213) 626-0466",
+    "address": {
+      "streetAddressLine1": "350 South Grand Avenue",
+      "streetAddressLine2": "Suite #B-5",
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900713406"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.251546,
+        34.051652
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a0359d"
+    },
+    "addressLine": [
+      "639 N Broadway",
+      "Los Angeles, CA 90012"
+    ],
+    "storeName": "Cesar Chavez & Broadway",
+    "phoneNumber": "213-680-7825",
+    "address": {
+      "streetAddressLine1": "639 N Broadway",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900124500"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.240347,
+        34.058795
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a0359e"
+    },
+    "addressLine": [
+      "800 N. Alameda Street",
+      "S2",
+      "Los Angeles, CA 90012"
+    ],
+    "storeName": "Dwntn LA Union Station Main Concrse",
+    "phoneNumber": "213-621-2862",
+    "address": {
+      "streetAddressLine1": "800 N. Alameda Street",
+      "streetAddressLine2": "S2",
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900122177"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.235776,
+        34.056059
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a0359f"
+    },
+    "addressLine": [
+      "333 South Hope Street",
+      "Los Angeles, CA 90071"
+    ],
+    "storeName": "BankAmerica - lower lvl (3rd&Hope)",
+    "phoneNumber": "2136214191",
+    "address": {
+      "streetAddressLine1": "333 South Hope Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900711406"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.253479,
+        34.05338
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035a0"
+    },
+    "addressLine": [
+      "555 West 5th Street",
+      "CC56",
+      "Los Angeles, CA 90013"
+    ],
+    "storeName": "Grand & 5th Gas Co Tower",
+    "phoneNumber": "2138197063",
+    "address": {
+      "streetAddressLine1": "555 West 5th Street",
+      "streetAddressLine2": "CC56",
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900131010"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.253646,
+        34.05019
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035a1"
+    },
+    "addressLine": [
+      "603 S. Spring Street",
+      "Los Angeles, CA 90014"
+    ],
+    "storeName": "6th & Spring",
+    "phoneNumber": "213-623-2751",
+    "address": {
+      "streetAddressLine1": "603 S. Spring Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900141902"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.251286,
+        34.045882
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035a2"
+    },
+    "addressLine": [
+      "444 South Flower Street",
+      "Suite #170",
+      "Los Angeles, CA 90071"
+    ],
+    "storeName": "5th & Flower (Citibank)",
+    "phoneNumber": "(213) 622-4493",
+    "address": {
+      "streetAddressLine1": "444 South Flower Street",
+      "streetAddressLine2": "Suite #170",
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900712901"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.255319,
+        34.051427
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035a4"
+    },
+    "addressLine": [
+      "505 S. Flower Street",
+      "Suite #B-13",
+      "Los Angeles, CA 90071"
+    ],
+    "storeName": "CityNatPlz - lower lvl (6th&Flower)",
+    "phoneNumber": "(213) 488-9049",
+    "address": {
+      "streetAddressLine1": "505 S. Flower Street",
+      "streetAddressLine2": "Suite #B-13",
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900712101"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.257392,
+        34.050606
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035a3"
+    },
+    "addressLine": [
+      "523 West 6th Street",
+      "Los Angeles, CA 90014"
+    ],
+    "storeName": "6th & Grand",
+    "phoneNumber": "213-327-0208",
+    "address": {
+      "streetAddressLine1": "523 West 6th Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900141217"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.255048,
+        34.048767
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035a5"
+    },
+    "addressLine": [
+      "700 W. 7th Street",
+      "GL320",
+      "Los Angeles, CA 90017"
+    ],
+    "storeName": "7th & Hope (The Bloc)",
+    "phoneNumber": "213-200-8397",
+    "address": {
+      "streetAddressLine1": "700 W. 7th Street",
+      "streetAddressLine2": "GL320",
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900173768"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.258288,
+        34.048187
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035a6"
+    },
+    "addressLine": [
+      "801 S. Olive St.",
+      "Suite A",
+      "Los Angeles, CA 90014"
+    ],
+    "storeName": "8th & Olive",
+    "phoneNumber": "2136277613",
+    "address": {
+      "streetAddressLine1": "801 S. Olive St.",
+      "streetAddressLine2": "Suite A",
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900143010"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.257148,
+        34.045104
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035a7"
+    },
+    "addressLine": [
+      "735 S. Figueroa Street",
+      "#308",
+      "Los Angeles, CA 90017"
+    ],
+    "storeName": "Figueroa & 7th (FIGat7th)",
+    "phoneNumber": "213-488-9902",
+    "address": {
+      "streetAddressLine1": "735 S. Figueroa Street",
+      "streetAddressLine2": "#308",
+      "streetAddressLine3": "Ernst & Young Plaza",
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900172571"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.260499,
+        34.049185
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035a8"
+    },
+    "addressLine": [
+      "300 E. 9th Street",
+      "Los Angeles, CA 90015"
+    ],
+    "storeName": "9th & Santee",
+    "phoneNumber": "213-489-0913",
+    "address": {
+      "streetAddressLine1": "300 E. 9th Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": "Fashion District",
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900151802"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.253353,
+        34.039857
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035aa"
+    },
+    "addressLine": [
+      "600 West 9th Street",
+      "135",
+      "Los Angeles, CA 90015"
+    ],
+    "storeName": "9th & Flower",
+    "phoneNumber": "213-239-9713",
+    "address": {
+      "streetAddressLine1": "600 West 9th Street",
+      "streetAddressLine2": "135",
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900154301"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.261393,
+        34.045488
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035a9"
+    },
+    "addressLine": [
+      "735 S Figueroa St",
+      "Los Angeles, CA 90017"
+    ],
+    "storeName": "Target LA Central T-2776",
+    "phoneNumber": "213-330-4543",
+    "address": {
+      "streetAddressLine1": "735 S Figueroa St",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900172571"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.261176,
+        34.04901
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035ab"
+    },
+    "addressLine": [
+      "1120 W. 6th St.",
+      "102",
+      "Los Angeles, CA 90017"
+    ],
+    "storeName": "6th & Bixel",
+    "phoneNumber": "213-500-8552",
+    "address": {
+      "streetAddressLine1": "1120 W. 6th St.",
+      "streetAddressLine2": "102",
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900174905"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.26304,
+        34.054212
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035ac"
+    },
+    "addressLine": [
+      "1090 Wilshire Blvd.",
+      "Los Angeles, CA 90017"
+    ],
+    "storeName": "Wilshire & Bixel",
+    "phoneNumber": "213-250-8291",
+    "address": {
+      "streetAddressLine1": "1090 Wilshire Blvd.",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900172416"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.26327,
+        34.052078
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035ad"
+    },
+    "addressLine": [
+      "1111 South Grand Avenue",
+      "Los Angeles, CA 90015"
+    ],
+    "storeName": "11th & Grand",
+    "phoneNumber": "2137491751",
+    "address": {
+      "streetAddressLine1": "1111 South Grand Avenue",
+      "streetAddressLine2": null,
+      "streetAddressLine3": "Elleven Condominium",
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900152176"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.262318,
+        34.04152
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035b0"
+    },
+    "addressLine": [
+      "1251 S. Grand Ave.",
+      "Los Angeles, CA 90015"
+    ],
+    "storeName": "Pico & Grand",
+    "phoneNumber": "213-604-0693",
+    "address": {
+      "streetAddressLine1": "1251 S. Grand Ave.",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900152105"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.264436,
+        34.039146
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035ae"
+    },
+    "addressLine": [
+      "1149 S. Hill Street",
+      "H-120",
+      "Los Angeles, CA 90015"
+    ],
+    "storeName": "12th & Hill",
+    "phoneNumber": "213-749-0487",
+    "address": {
+      "streetAddressLine1": "1149 S. Hill Street",
+      "streetAddressLine2": "H-120",
+      "streetAddressLine3": "AT&T Building",
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900152212"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.260963,
+        34.039215
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035af"
+    },
+    "addressLine": [
+      "800 W. Olympic Blvd.",
+      "102",
+      "Los Angeles, CA 90015"
+    ],
+    "storeName": "Olympic & Figueroa (LA LIVE)",
+    "phoneNumber": "213-748-1009",
+    "address": {
+      "streetAddressLine1": "800 W. Olympic Blvd.",
+      "streetAddressLine2": "102",
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900151360"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.266074,
+        34.044652
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035b1"
+    },
+    "addressLine": [
+      "1601 Wilshire Blvd",
+      "Los Angeles, CA 90017"
+    ],
+    "storeName": "Wilshire & Union",
+    "phoneNumber": "213-484-0958",
+    "address": {
+      "streetAddressLine1": "1601 Wilshire Blvd",
+      "streetAddressLine2": null,
+      "streetAddressLine3": "Wilshire Union Center",
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900171610"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.270301,
+        34.055731
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035b2"
+    },
+    "addressLine": [
+      "230 S. Alvarado",
+      "Los Angeles, CA 90057"
+    ],
+    "storeName": "Alvarado & 3rd",
+    "phoneNumber": "2134341379",
+    "address": {
+      "streetAddressLine1": "230 S. Alvarado",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900572306"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.272333,
+        34.063045
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035b3"
+    },
+    "addressLine": [
+      "1401 Alameda St",
+      "Los Angeles, CA 90021"
+    ],
+    "storeName": "Alameda & 14th",
+    "phoneNumber": "213-334-9270",
+    "address": {
+      "streetAddressLine1": "1401 Alameda St",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900212425"
+    },
+    "openStatusText": "Open 24 hours",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.239853,
+        34.025341
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035b4"
+    },
+    "addressLine": [
+      "2134 W. Sunset Blvd.",
+      "G",
+      "Los Angeles, CA 90026"
+    ],
+    "storeName": "Sunset Blvd & Mohawk",
+    "phoneNumber": "2134315969",
+    "address": {
+      "streetAddressLine1": "2134 W. Sunset Blvd.",
+      "streetAddressLine2": "G",
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900261695"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.264892,
+        34.077233
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035b5"
+    },
+    "addressLine": [
+      "1400 Glendale Blvd",
+      "Los Angeles, CA 90026"
+    ],
+    "storeName": "Glendale & Montana",
+    "phoneNumber": "2134843848",
+    "address": {
+      "streetAddressLine1": "1400 Glendale Blvd",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900262429"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.259857,
+        34.079821
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035b6"
+    },
+    "addressLine": [
+      "1969 Zonal Ave",
+      "Los Angeles, CA 90033"
+    ],
+    "storeName": "Health Science Campus - USC",
+    "phoneNumber": "323-442-1943",
+    "address": {
+      "streetAddressLine1": "1969 Zonal Ave",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900335422"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.205674,
+        34.060608
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035b7"
+    },
+    "addressLine": [
+      "1106 Cornwell Street",
+      "Los Angeles, CA 90033"
+    ],
+    "storeName": "Marengo & Cornwell",
+    "phoneNumber": "213-328-8499",
+    "address": {
+      "streetAddressLine1": "1106 Cornwell Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900331415"
+    },
+    "openStatusText": "Open 24 hours",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.20455,
+        34.055688
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035b8"
+    },
+    "addressLine": [
+      "2675 E Olympic Blvd",
+      "Los Angeles, CA 90023"
+    ],
+    "storeName": "Olympic & Soto",
+    "phoneNumber": "323-265-3457",
+    "address": {
+      "streetAddressLine1": "2675 E Olympic Blvd",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900232607"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2202,
+        34.0247
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035b9"
+    },
+    "addressLine": [
+      "534 S. Occidental",
+      "Los Angeles, CA 90057"
+    ],
+    "storeName": "6th & Occidental",
+    "phoneNumber": "213-215-4691",
+    "address": {
+      "streetAddressLine1": "534 S. Occidental",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900571502"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.283948,
+        34.063792
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035bb"
+    },
+    "addressLine": [
+      "2735 S. Figueroa St.",
+      "Los Angeles, CA 90007"
+    ],
+    "storeName": "Figueroa & 28th",
+    "phoneNumber": "213-618-5477",
+    "address": {
+      "streetAddressLine1": "2735 S. Figueroa St.",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900073256"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.277509,
+        34.026426
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035ba"
+    },
+    "addressLine": [
+      "620 S. Virgil Ave.",
+      "Los Angeles, CA 90020"
+    ],
+    "storeName": "Target Express La K-Town",
+    "phoneNumber": null,
+    "address": {
+      "streetAddressLine1": "620 S. Virgil Ave.",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "90020"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.285877,
+        34.063556
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035bc"
+    },
+    "addressLine": [
+      "3241 N Figueroa Street",
+      "Los Angeles, CA 90065"
+    ],
+    "storeName": "Figueroa & Cypress",
+    "phoneNumber": "(213) 9997901",
+    "address": {
+      "streetAddressLine1": "3241 N Figueroa Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900651525"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.21944,
+        34.086461
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035bd"
+    },
+    "addressLine": [
+      "3026 S Figueroa St",
+      "Los Angeles, CA 90007"
+    ],
+    "storeName": "Figueroa & 31st",
+    "phoneNumber": "(213) 7450384",
+    "address": {
+      "streetAddressLine1": "3026 S Figueroa St",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900073711"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.278189,
+        34.024127
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035be"
+    },
+    "addressLine": [
+      "3150 Wilshire Blvd",
+      "Los Angeles, CA 90010"
+    ],
+    "storeName": "Vermont & Wilshire",
+    "phoneNumber": "213-384-3578",
+    "address": {
+      "streetAddressLine1": "3150 Wilshire Blvd",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900101305"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.291249,
+        34.061517
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035bf"
+    },
+    "addressLine": [
+      "3410 W 3rd Street",
+      "Los Angeles, CA 90020"
+    ],
+    "storeName": "Ralphs Los Angeles #32",
+    "phoneNumber": "213-480-1421",
+    "address": {
+      "streetAddressLine1": "3410 W 3rd Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "90020"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.290445,
+        34.068519
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035c1"
+    },
+    "addressLine": [
+      "3131 S Hoover St",
+      "Unit 9-A",
+      "Los Angeles, CA 90089"
+    ],
+    "storeName": "Target Express Usc T-3217",
+    "phoneNumber": "2132753149",
+    "address": {
+      "streetAddressLine1": "3131 S Hoover St",
+      "streetAddressLine2": "Unit 9-A",
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "90089"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.284313,
+        34.025759
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035c0"
+    },
+    "addressLine": [
+      "3461 W 3rd St",
+      "Los Angeles, CA 90020"
+    ],
+    "storeName": "Vons-Los Angeles #2261",
+    "phoneNumber": "2133846552",
+    "address": {
+      "streetAddressLine1": "3461 W 3rd St",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900201604"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.290756,
+        34.06982
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035c2"
+    },
+    "addressLine": [
+      "3201 S. Hoover St.",
+      "1820",
+      "Los Angeles, CA 90089"
+    ],
+    "storeName": "USC Village",
+    "phoneNumber": "2134601662",
+    "address": {
+      "streetAddressLine1": "3201 S. Hoover St.",
+      "streetAddressLine2": "1820",
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900893545"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.284308,
+        34.024627
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035c3"
+    },
+    "addressLine": [
+      "181 S. Vermont",
+      "Los Angeles, CA 90004"
+    ],
+    "storeName": "Vermont & West 2nd",
+    "phoneNumber": "213 8089736",
+    "address": {
+      "streetAddressLine1": "181 S. Vermont",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900045904"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.291898,
+        34.070657
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035c4"
+    },
+    "addressLine": [
+      "2600 South Vermont",
+      "Los Angeles, CA 90007"
+    ],
+    "storeName": "Ralphs - Los Angeles #294",
+    "phoneNumber": "3237323863",
+    "address": {
+      "streetAddressLine1": "2600 South Vermont",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "90007"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.290778,
+        34.031819
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035c5"
+    },
+    "addressLine": [
+      "642 W 34th St",
+      "Los Angeles, CA 90007"
+    ],
+    "storeName": "Trojan Grounds @ USC",
+    "phoneNumber": "2137407848",
+    "address": {
+      "streetAddressLine1": "642 W 34th St",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "90007"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.282181,
+        34.021676
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035c6"
+    },
+    "addressLine": [
+      "3465 W. 6th Street",
+      "30 & 40",
+      "Los Angeles, CA 90020"
+    ],
+    "storeName": "6th & Kenmore (Chapman Market)",
+    "phoneNumber": "2133680415",
+    "address": {
+      "streetAddressLine1": "3465 W. 6th Street",
+      "streetAddressLine2": "30 & 40",
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900202567"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.297064,
+        34.063727
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035c7"
+    },
+    "addressLine": [
+      "3584 S. Figueroa St.",
+      "#1B",
+      "Los Angeles, CA 90007"
+    ],
+    "storeName": "Figueroa & Exposition",
+    "phoneNumber": "213-749-9302",
+    "address": {
+      "streetAddressLine1": "3584 S. Figueroa St.",
+      "streetAddressLine2": "#1B",
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900074313"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.281769,
+        34.018589
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035c8"
+    },
+    "addressLine": [
+      "3450 Wilshire Blvd.",
+      "Los Angeles, CA 90010"
+    ],
+    "storeName": "Wilshire & Normandie",
+    "phoneNumber": "(213) 382-3351",
+    "address": {
+      "streetAddressLine1": "3450 Wilshire Blvd.",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900102208"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.299522,
+        34.061451
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe19ecbb118edb50a035c9"
+    },
+    "addressLine": [
+      "3853 E. 3rd Street",
+      "E",
+      "Los Angeles, CA 90063"
+    ],
+    "storeName": "3rd & Gage, Los Angeles",
+    "phoneNumber": "323-265-4124",
+    "address": {
+      "streetAddressLine1": "3853 E. 3rd Street",
+      "streetAddressLine2": "E",
+      "streetAddressLine3": null,
+      "city": "Los Angeles",
+      "countrySubdivisionCode": "CA",
+      "countryCode": "US",
+      "postalCode": "900632403"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.184217,
+        34.033622
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a42bb118edb50a035ca"
+    },
+    "addressLine": [
+      "159 Sudbury Road",
+      "Concord, MA 01742"
+    ],
+    "storeName": "Sudbury Rd & Thoreau",
+    "phoneNumber": "978-287-0183",
+    "address": {
+      "streetAddressLine1": "159 Sudbury Road",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Concord",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "017423429"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.355854,
+        42.455669
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a42bb118edb50a035cc"
+    },
+    "addressLine": [
+      "186 Great Road",
+      "Bedford, MA 01730"
+    ],
+    "storeName": "Bedford, Great Road",
+    "phoneNumber": "781-275-0992",
+    "address": {
+      "streetAddressLine1": "186 Great Road",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Bedford",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "017302710"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.27235,
+        42.489622
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a42bb118edb50a035cb"
+    },
+    "addressLine": [
+      "411 Massachusettes Ave",
+      "Acton, MA 01720"
+    ],
+    "storeName": "Acton, Kelly's Corner",
+    "phoneNumber": "978-264-1992",
+    "address": {
+      "streetAddressLine1": "411 Massachusettes Ave",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Acton",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "017203739"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.451609,
+        42.47491
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a42bb118edb50a035cd"
+    },
+    "addressLine": [
+      "60 Bedford Street",
+      "Lexington, MA 02420"
+    ],
+    "storeName": "Lexington/Bedford Rd",
+    "phoneNumber": "781-863-1189",
+    "address": {
+      "streetAddressLine1": "60 Bedford Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Lexington",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024204334"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.233316,
+        42.453613
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a42bb118edb50a035d3"
+    },
+    "addressLine": [
+      "1300 Middlesex Turnpike",
+      "Burlington, MA 01803"
+    ],
+    "storeName": "Macy's Burlington",
+    "phoneNumber": "7812730278",
+    "address": {
+      "streetAddressLine1": "1300 Middlesex Turnpike",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Burlington",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "01803"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.212894,
+        42.481198
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a42bb118edb50a035d0"
+    },
+    "addressLine": [
+      "12 Market Place Drive",
+      "Waltham, MA 02451"
+    ],
+    "storeName": "Waltham, Market Place Drive",
+    "phoneNumber": "7818931685",
+    "address": {
+      "streetAddressLine1": "12 Market Place Drive",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Waltham",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024511059"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.261223,
+        42.379376
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a42bb118edb50a035ce"
+    },
+    "addressLine": [
+      "513 Boston Post Road",
+      "Sudbury, MA 01776"
+    ],
+    "storeName": "Sudbury Route 20",
+    "phoneNumber": "978-579-9977",
+    "address": {
+      "streetAddressLine1": "513 Boston Post Road",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Sudbury",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "017763313"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.430024,
+        42.35923
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a42bb118edb50a035cf"
+    },
+    "addressLine": [
+      "1729 Massachusetts Ave",
+      "Lexington, MA 02420"
+    ],
+    "storeName": "Downtown Lexington",
+    "phoneNumber": "781-863-8485",
+    "address": {
+      "streetAddressLine1": "1729 Massachusetts Ave",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Lexington",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024205306"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.226705,
+        42.4475
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a42bb118edb50a035d2"
+    },
+    "addressLine": [
+      "201 Middlesex Turnpike",
+      "Burlington, MA 01803"
+    ],
+    "storeName": "Middlesex Tpk & Terrace",
+    "phoneNumber": "7812720258",
+    "address": {
+      "streetAddressLine1": "201 Middlesex Turnpike",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Burlington",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "018033322"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.225514,
+        42.494835
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a42bb118edb50a035d1"
+    },
+    "addressLine": [
+      "1019 Trapelo Road",
+      "1019D",
+      "Waltham, MA 02452"
+    ],
+    "storeName": "Trapelo & Lexington",
+    "phoneNumber": "7818913027",
+    "address": {
+      "streetAddressLine1": "1019 Trapelo Road",
+      "streetAddressLine2": "1019D",
+      "streetAddressLine3": null,
+      "city": "Waltham",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024525002"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.233176,
+        42.411145
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a42bb118edb50a035d4"
+    },
+    "addressLine": [
+      "174 Littleton Road",
+      "Westford, MA 01886"
+    ],
+    "storeName": "Westford Valley Marketplace",
+    "phoneNumber": "978-392-5926",
+    "address": {
+      "streetAddressLine1": "174 Littleton Road",
+      "streetAddressLine2": null,
+      "streetAddressLine3": "Westford Valley Marketplace II",
+      "city": "Westford",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "018863191"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.421697,
+        42.566826
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a42bb118edb50a035d5"
+    },
+    "addressLine": [
+      "84 Burlington Mall Road",
+      "Suite D",
+      "Burlington, MA 01803"
+    ],
+    "storeName": "Burlington Mall Road",
+    "phoneNumber": "781-273-6544",
+    "address": {
+      "streetAddressLine1": "84 Burlington Mall Road",
+      "streetAddressLine2": "Suite D",
+      "streetAddressLine3": "The Marketplace",
+      "city": "Burlington",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "018034518"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.212135,
+        42.486373
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a42bb118edb50a035d6"
+    },
+    "addressLine": [
+      "495 Great Road",
+      "Littleton, MA 01460"
+    ],
+    "storeName": "Littleton - The Point",
+    "phoneNumber": "9784400729",
+    "address": {
+      "streetAddressLine1": "495 Great Road",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Littleton",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "014601208"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.476753,
+        42.551463
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a42bb118edb50a035d8"
+    },
+    "addressLine": [
+      "44 Main Street",
+      "Wayland, MA 01778"
+    ],
+    "storeName": "Wayland, Main street",
+    "phoneNumber": "(508) 655-1109",
+    "address": {
+      "streetAddressLine1": "44 Main Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Wayland",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "017785056"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.364036,
+        42.31709
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035db"
+    },
+    "addressLine": [
+      "199 Boston Road",
+      "Unit 15",
+      "Billerica, MA 01862"
+    ],
+    "storeName": "Billerica",
+    "phoneNumber": "978-436-9180",
+    "address": {
+      "streetAddressLine1": "199 Boston Road",
+      "streetAddressLine2": "Unit 15",
+      "streetAddressLine3": null,
+      "city": "Billerica",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "018622328"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.289347,
+        42.581632
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035d9"
+    },
+    "addressLine": [
+      "1465 Massachusetts Ave",
+      "Arlington, MA 02476"
+    ],
+    "storeName": "Mass. Ave., Arlington",
+    "phoneNumber": "(781) 646-9366",
+    "address": {
+      "streetAddressLine1": "1465 Massachusetts Ave",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Arlington",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024764103"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.188507,
+        42.425296
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035da"
+    },
+    "addressLine": [
+      "2095 Commonwealth Ave",
+      "Auburndale, MA 02466"
+    ],
+    "storeName": "Auburndale, Commonwealth Ave",
+    "phoneNumber": "6179690672",
+    "address": {
+      "streetAddressLine1": "2095 Commonwealth Ave",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Auburndale",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024661901"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.247605,
+        42.348443
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a42bb118edb50a035d7"
+    },
+    "addressLine": [
+      "2 Wayside Road",
+      "Burlington, MA 01803"
+    ],
+    "storeName": "Burlington-Wayside Commons",
+    "phoneNumber": "781 2210399",
+    "address": {
+      "streetAddressLine1": "2 Wayside Road",
+      "streetAddressLine2": null,
+      "streetAddressLine3": "Wayside Commons",
+      "city": "Burlington",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "018034605"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.193506,
+        42.484768
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035dc"
+    },
+    "addressLine": [
+      "605 Boston Post Rd E",
+      "Marlborough, MA 01752"
+    ],
+    "storeName": "Target Marlborough T-2570",
+    "phoneNumber": "508-251-6957",
+    "address": {
+      "streetAddressLine1": "605 Boston Post Rd E",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Marlborough",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "017523724"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.505021,
+        42.349948
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035dd"
+    },
+    "addressLine": [
+      "535 Trapelo Rd",
+      "Belmont, MA 02478"
+    ],
+    "storeName": "Star Market Belmont 2583",
+    "phoneNumber": "617-489-6540",
+    "address": {
+      "streetAddressLine1": "535 Trapelo Rd",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Belmont",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "02478"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.191459,
+        42.388138
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035de"
+    },
+    "addressLine": [
+      "400 Cochituate Rd",
+      "Framingham, MA 01701"
+    ],
+    "storeName": "Target Framingham T-1308",
+    "phoneNumber": "508-628-3136",
+    "address": {
+      "streetAddressLine1": "400 Cochituate Rd",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Framingham",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "017014655"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.397713,
+        42.305604
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035df"
+    },
+    "addressLine": [
+      "333 Worcester St",
+      "Natick, MA 01760"
+    ],
+    "storeName": "Natick, Route 9 West",
+    "phoneNumber": "5086553423",
+    "address": {
+      "streetAddressLine1": "333 Worcester St",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Natick",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "017602212"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.338859,
+        42.302683
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035e2"
+    },
+    "addressLine": [
+      "1 Worcester Road",
+      "Framingham, MA 01701"
+    ],
+    "storeName": "Shopper's World (Barnes & Noble)",
+    "phoneNumber": "508-820-1204",
+    "address": {
+      "streetAddressLine1": "1 Worcester Road",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Framingham",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "017015359"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.395977,
+        42.29992
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035e1"
+    },
+    "addressLine": [
+      "2322 Washington Street",
+      "Newton, MA 02462"
+    ],
+    "storeName": "Newton Lower Falls",
+    "phoneNumber": "617-630-9870",
+    "address": {
+      "streetAddressLine1": "2322 Washington Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Newton",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024621440"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.256504,
+        42.325456
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035e0"
+    },
+    "addressLine": [
+      "1245 Worcester Street",
+      "Natick, MA 01760"
+    ],
+    "storeName": "Natick Mall - Level 1",
+    "phoneNumber": "5086554961",
+    "address": {
+      "streetAddressLine1": "1245 Worcester Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Natick",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "017601515"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.383998,
+        42.300699
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035e3"
+    },
+    "addressLine": [
+      "47 Leonard St.",
+      "Belmont, MA 02478"
+    ],
+    "storeName": "Leonard St. Belmont",
+    "phoneNumber": "617-484-3213",
+    "address": {
+      "streetAddressLine1": "47 Leonard St.",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Belmont",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024782526"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.175393,
+        42.397256
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035e4"
+    },
+    "addressLine": [
+      "1346 Worcester Road",
+      "Natick, MA 01760"
+    ],
+    "storeName": "Natick, Sherwood Plaza",
+    "phoneNumber": "508-650-2081",
+    "address": {
+      "streetAddressLine1": "1346 Worcester Road",
+      "streetAddressLine2": null,
+      "streetAddressLine3": "Sherwood Plaza",
+      "city": "Natick",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "017601501"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.38708,
+        42.298075
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035e5"
+    },
+    "addressLine": [
+      "16-18 Austin Street",
+      "Newtonville, MA 02460"
+    ],
+    "storeName": "Newtonville",
+    "phoneNumber": "(617) 965-5997",
+    "address": {
+      "streetAddressLine1": "16-18 Austin Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Newtonville",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024601820"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.207591,
+        42.350435
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035e7"
+    },
+    "addressLine": [
+      "110 Trapelo Road",
+      "Belmont, MA 02478"
+    ],
+    "storeName": "Cushing Village, Belmont",
+    "phoneNumber": "6179454482",
+    "address": {
+      "streetAddressLine1": "110 Trapelo Road",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Belmont",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024781877"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.174964,
+        42.38026
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035e6"
+    },
+    "addressLine": [
+      "25 Prospect St",
+      "Framingham, MA 01701"
+    ],
+    "storeName": "Framingham, Whole Foods",
+    "phoneNumber": "(508) 879-9185",
+    "address": {
+      "streetAddressLine1": "25 Prospect St",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Framingham",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "017016800"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.422304,
+        42.298895
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035e8"
+    },
+    "addressLine": [
+      "101 Linden Street",
+      "Wellesley, MA 02482"
+    ],
+    "storeName": "Wellesley, Linden Square",
+    "phoneNumber": "781-235-2390",
+    "address": {
+      "streetAddressLine1": "101 Linden Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Wellesley",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024827907"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.291666,
+        42.300599
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035e9"
+    },
+    "addressLine": [
+      "474 Woodward Street",
+      "Waban, MA 02468"
+    ],
+    "storeName": "Waban",
+    "phoneNumber": "617-244-0390",
+    "address": {
+      "streetAddressLine1": "474 Woodward Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Waban",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024681521"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.230214,
+        42.32642
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035ea"
+    },
+    "addressLine": [
+      "75 Mt Auburn Street",
+      "Watertown, MA 02472"
+    ],
+    "storeName": "Watertown - Mt. Auburn",
+    "phoneNumber": "617 926-4644",
+    "address": {
+      "streetAddressLine1": "75 Mt Auburn Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Watertown",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024723924"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.181086,
+        42.366427
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035eb"
+    },
+    "addressLine": [
+      "259 Centre Street",
+      "Newton, MA 02458"
+    ],
+    "storeName": "Newton Corner",
+    "phoneNumber": "617-796-3720",
+    "address": {
+      "streetAddressLine1": "259 Centre Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Newton",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024581624"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.185313,
+        42.359008
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035ec"
+    },
+    "addressLine": [
+      "68A Central Street",
+      "Wellesley, MA 02482"
+    ],
+    "storeName": "Downtown Wellesley",
+    "phoneNumber": "781-237-5282",
+    "address": {
+      "streetAddressLine1": "68A Central Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Wellesley",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024825806"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.296342,
+        42.29598
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035ed"
+    },
+    "addressLine": [
+      "327 Broadway",
+      "Arlington, MA 02474"
+    ],
+    "storeName": "Arlington",
+    "phoneNumber": "781-641-2893",
+    "address": {
+      "streetAddressLine1": "327 Broadway",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Arlington",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024745303"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.15099,
+        42.414751
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035ef"
+    },
+    "addressLine": [
+      "101 Drum Hill Road",
+      "Chelmsford, MA 01824"
+    ],
+    "storeName": "Chelmsford, Drum Hill Rd",
+    "phoneNumber": "978-458-2464",
+    "address": {
+      "streetAddressLine1": "101 Drum Hill Road",
+      "streetAddressLine2": null,
+      "streetAddressLine3": "Chelmsford Plaza",
+      "city": "Chelmsford",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "018241519"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.36431,
+        42.623739
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035ee"
+    },
+    "addressLine": [
+      "23 South Bolton Street",
+      "Marlborough, MA 01752"
+    ],
+    "storeName": "Marlborough, South Bolton St",
+    "phoneNumber": "508-486-9724",
+    "address": {
+      "streetAddressLine1": "23 South Bolton Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Marlborough",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "017522843"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.546413,
+        42.346238
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035f0"
+    },
+    "addressLine": [
+      "542 Main Street",
+      "Winchester, MA 01890"
+    ],
+    "storeName": "Winchester",
+    "phoneNumber": "781-729-1626",
+    "address": {
+      "streetAddressLine1": "542 Main Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Winchester",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "018902913"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.136821,
+        42.45203
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035f2"
+    },
+    "addressLine": [
+      "199 Plain St",
+      "Lowell, MA 01852"
+    ],
+    "storeName": "Target Lowell T-2480",
+    "phoneNumber": "978-703-2020",
+    "address": {
+      "streetAddressLine1": "199 Plain St",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Lowell",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "018525132"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.31845,
+        42.62462
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035f1"
+    },
+    "addressLine": [
+      "271 Main St.",
+      "Space #253",
+      "Wilmington, MA 01887"
+    ],
+    "storeName": "Wilmington Crossing",
+    "phoneNumber": "978-658-2541",
+    "address": {
+      "streetAddressLine1": "271 Main St.",
+      "streetAddressLine2": "Space #253",
+      "streetAddressLine3": null,
+      "city": "Wilmington",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "018872321"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.181095,
+        42.555543
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035f3"
+    },
+    "addressLine": [
+      "1269 Centre Street",
+      "Newton Centre, MA 02459"
+    ],
+    "storeName": "Newton Centre St.",
+    "phoneNumber": "617-964-9690",
+    "address": {
+      "streetAddressLine1": "1269 Centre Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Newton Centre",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024591538"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.194991,
+        42.330258
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035f5"
+    },
+    "addressLine": [
+      "550 Arsenal Street",
+      "Watertown, MA 02472"
+    ],
+    "storeName": "Target Watertown T-1442",
+    "phoneNumber": "6179246574",
+    "address": {
+      "streetAddressLine1": "550 Arsenal Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Watertown",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024722853"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.156993,
+        42.364217
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035f4"
+    },
+    "addressLine": [
+      "222 Alewife Brook Parkway",
+      "Cambridge, MA 02138"
+    ],
+    "storeName": "Cambridge, Fresh Pond",
+    "phoneNumber": "6178761070",
+    "address": {
+      "streetAddressLine1": "222 Alewife Brook Parkway",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Cambridge",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "021381102"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.142456,
+        42.388803
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035f7"
+    },
+    "addressLine": [
+      "2151 Mystic Valley Parkway",
+      "Medford, MA 02155"
+    ],
+    "storeName": "Medford- Whole Foods",
+    "phoneNumber": "781-396-3630",
+    "address": {
+      "streetAddressLine1": "2151 Mystic Valley Parkway",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Medford",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "021553700"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.126401,
+        42.417263
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035f6"
+    },
+    "addressLine": [
+      "699 Mt Auburn St",
+      "Cambridge, MA 02138"
+    ],
+    "storeName": "Star Market Mt Auburn 2565",
+    "phoneNumber": "617-876-1450",
+    "address": {
+      "streetAddressLine1": "699 Mt Auburn St",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Cambridge",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "02138"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.149085,
+        42.37545
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035f9"
+    },
+    "addressLine": [
+      "99 Commerce Way",
+      "Woburn, MA 01801"
+    ],
+    "storeName": "Woburn, Commerce Way",
+    "phoneNumber": "781-933-4672",
+    "address": {
+      "streetAddressLine1": "99 Commerce Way",
+      "streetAddressLine2": null,
+      "streetAddressLine3": "Metro North Retail Center",
+      "city": "Woburn",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "018015199"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.135854,
+        42.517425
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035f8"
+    },
+    "addressLine": [
+      "244 Needham Street",
+      "Newton, MA 02464"
+    ],
+    "storeName": "Newton Upper Falls",
+    "phoneNumber": "(617) 332-8839",
+    "address": {
+      "streetAddressLine1": "244 Needham Street",
+      "streetAddressLine2": null,
+      "streetAddressLine3": "Brickstone Shops",
+      "city": "Newton",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "024641595"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.214397,
+        42.309509
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035fa"
+    },
+    "addressLine": [
+      "1660-1670 Soldiers Field Rd",
+      "Brighton, MA 02135"
+    ],
+    "storeName": "Brighton/Soldiers Field",
+    "phoneNumber": "617-782-1325",
+    "address": {
+      "streetAddressLine1": "1660-1670 Soldiers Field Rd",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Brighton",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "021351108"
+    },
+    "openStatusText": "Opens in 42 mins",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.154354,
+        42.358867
+      ]
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5fbe1a43bb118edb50a035fb"
+    },
+    "addressLine": [
+      "101 Commerce Way",
+      "Woburn, MA 01801"
+    ],
+    "storeName": "Target Woburn T-1266",
+    "phoneNumber": "781-904-0002",
+    "address": {
+      "streetAddressLine1": "101 Commerce Way",
+      "streetAddressLine2": null,
+      "streetAddressLine3": null,
+      "city": "Woburn",
+      "countrySubdivisionCode": "MA",
+      "countryCode": "US",
+      "postalCode": "018011007"
+    },
+    "openStatusText": "Closed",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.135588,
+        42.518122
+      ]
+    },
+    "__v": 0
+  }
+]

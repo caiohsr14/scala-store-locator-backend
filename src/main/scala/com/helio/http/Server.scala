@@ -16,7 +16,8 @@ object Server extends IOApp {
 
   def run(args: List[String]): IO[ExitCode] = {
     val httpApp: Kleisli[IO, Request[IO], Response[IO]] = Router(
-      "/test" -> Endpoints.helloWorldService
+      "/test" -> Endpoints.testService,
+      "/api" -> Endpoints.apiService
     ).orNotFound
 
     log.info("Starting HTTP Server")

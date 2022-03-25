@@ -17,6 +17,9 @@ libraryDependencies ++= Seq(
   "org.http4s"          %% "http4s-circe"        % Http4sVersion,
   "org.http4s"          %% "http4s-dsl"          % Http4sVersion,
   "io.circe"            %% "circe-generic"       % CirceVersion,
+  "io.circe"            %% "circe-parser"        % CirceVersion,
   // Java Libs
   "ch.qos.logback"      % "logback-classic" % "1.2.11",
 )
+
+mainClass:=Option("com.helio.http.Server")

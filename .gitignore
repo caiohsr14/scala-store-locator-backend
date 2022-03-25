@@ -1,5 +1,5 @@
 .idea
-sbt.json
+.bsp
 
 dist/*
 target/
