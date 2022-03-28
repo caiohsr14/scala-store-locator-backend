@@ -1,5 +1,6 @@
 package com.helio.http
 
+import com.comcast.ip4s.Port
 import com.typesafe.config._
 
 object Config {
@@ -9,5 +10,9 @@ object Config {
 
   lazy val MQ_API_KEY: Option[String] = {
     Option(config.getString("mq-api-key"))
+  }
+
+  lazy val SERVER_PORT: Port = {
+    Port.fromInt(config.getInt("server-port")).get
   }
 }
