@@ -20,6 +20,7 @@ libraryDependencies ++= Seq(
   "io.circe"            %% "circe-parser"        % CirceVersion,
   // Java Libs
   "ch.qos.logback"      % "logback-classic" % "1.2.11",
+  "com.typesafe"        % "config" % "1.4.2",
 )
 
 mainClass:=Option("com.helio.http.Server")

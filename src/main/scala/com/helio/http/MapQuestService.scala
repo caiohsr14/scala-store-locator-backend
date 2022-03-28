@@ -33,7 +33,7 @@ object MapQuestService {
   to do with them
    */
   def geocode(zipCode: String): Option[MapQuestResponse] = {
-    Properties.MQ_API_KEY match {
+    Config.MQ_API_KEY match {
       case Some(key)=>
         val helloJames = httpClient.expect[MapQuestResponse](s"https://www.mapquestapi.com/geocoding/v1/address?key=$key&location=${zipCode}")
         helloJames.unsafeRunTimed(5000.seconds)
