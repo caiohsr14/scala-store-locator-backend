@@ -32,7 +32,7 @@ object StoreRepository {
   def findByCoordinates(
       latitude: Double,
       longitude: Double,
-      radius: Integer
+      radius: Int
   ): List[Store] = {
     NamedDB(dbName) readOnly { implicit session =>
       sql"""select *, ST_Distance(geography_point, ST_MakePoint(${longitude}, ${latitude})) as distance

@@ -42,7 +42,7 @@ object Mappings {
 }
 
 case class Store(
-    id: Integer = 0,
+    id: Int = 0,
     addressLines: Option[String],
     storeName: String,
     phoneNumber: Option[String],
