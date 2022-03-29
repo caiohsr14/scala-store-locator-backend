@@ -1,6 +1,8 @@
 package com.helio.http
 
 import cats.effect._
+import com.helio.models.Mappings
+import com.helio.persistence.StoreRepository
 import io.circe.syntax.EncoderOps
 import org.http4s._
 import org.http4s.dsl.io._
@@ -39,13 +41,21 @@ object Endpoints {
     case GET -> Root / "stores" :? ZipCodeMatcher(zipCode) =>
       log.info(s"api/stores handling zip: ${zipCode}")
       // Example of Geocoder Service
-      MapQuestService.geocode(zipCode).map { res =>
+      val mqResult = MapQuestService.geocode(zipCode).map { res =>
         log.info("Zipcode encode")
         log.info(res.toString)
         res
       }
-      val stores = StoreModels.loadSampleStores // <-- Dummy load from file.
-      Ok(stores.take(5).asJson) // Example output
+
+      mqResult match {
+        case Some(response) =>
+          val location = response.results.head.locations.head.latLng.get
+          val stores = StoreRepository.findByCoordinates(location.lat, location.lng, 10000)
+          val dtos = stores.map(s => Mappings.ConvertTo(s))
+          Ok(dtos.asJson)
+        case None =>
+          NotFound()
+      }
   }
 
 }

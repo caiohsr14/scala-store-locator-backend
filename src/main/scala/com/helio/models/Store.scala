@@ -15,8 +15,8 @@ object Mappings {
       postalCode = dto.address.postalCode,
       openStatusText = dto.openStatusText,
       locationType = dto.location.`type`,
-      latitude = dto.location.coordinates.head,
-      longitude = dto.location.coordinates(1)
+      longitude = dto.location.coordinates.head,
+      latitude = dto.location.coordinates(1)
     )
 
   implicit def ConvertTo(store: Store): StoreDTO =
@@ -36,7 +36,7 @@ object Mappings {
       openStatusText = store.openStatusText,
       location = LocationDTO(
         `type` = store.locationType,
-        coordinates = List(store.latitude, store.longitude)
+        coordinates = List(store.longitude, store.latitude)
       )
     )
 }
