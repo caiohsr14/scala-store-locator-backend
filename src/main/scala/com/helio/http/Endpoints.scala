@@ -16,6 +16,7 @@ object Endpoints {
   private val log: Logger = getLogger
 
   object ZipCodeMatcher extends QueryParamDecoderMatcher[String]("zip_code")
+  object RadiusMatcher extends OptionalQueryParamDecoderMatcher[Int]("radius")
 
   // Simple Example Endpoint
   // This is accessible with:
@@ -38,7 +39,7 @@ object Endpoints {
    You'll want replicate what that does here using Postgres!
    */
   val apiService: HttpRoutes[IO] = HttpRoutes.of[IO] {
-    case GET -> Root / "stores" :? ZipCodeMatcher(zipCode) =>
+    case GET -> Root / "stores" :? ZipCodeMatcher(zipCode) +& RadiusMatcher(radius) =>
       log.info(s"api/stores handling zip: ${zipCode}")
       // Example of Geocoder Service
       val mqResult = MapQuestService.geocode(zipCode).map { res =>
@@ -50,7 +51,7 @@ object Endpoints {
       mqResult match {
         case Some(response) =>
           val location = response.results.head.locations.head.latLng.get
-          val stores = StoreRepository.findByCoordinates(location.lat, location.lng, 10000)
+          val stores = StoreRepository.findByCoordinates(location.lat, location.lng, radius.getOrElse(10000))
           val dtos = stores.map(s => Mappings.ConvertTo(s))
           Ok(dtos.asJson)
         case None =>
