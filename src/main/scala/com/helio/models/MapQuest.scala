@@ -1,4 +1,4 @@
-package com.helio.http
+package com.helio.models
 
 case class Info(statuscode: Int)
 
