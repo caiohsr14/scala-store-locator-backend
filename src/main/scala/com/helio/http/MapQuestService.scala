@@ -2,6 +2,7 @@ package com.helio.http
 
 import cats.effect.IO
 import cats.effect.unsafe.implicits.global
+import com.helio.shared.Config
 import io.circe.generic.auto._
 import org.http4s.EntityDecoder
 import org.http4s.circe.jsonOf

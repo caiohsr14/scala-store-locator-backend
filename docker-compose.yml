@@ -2,6 +2,8 @@ version: '3'
 services:
   store-locator-backend:
     build: .
+    command: run
+    image: store-locator-backend
     depends_on:
       postgres:
         condition: service_healthy

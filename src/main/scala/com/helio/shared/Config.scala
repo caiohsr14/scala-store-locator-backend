@@ -1,10 +1,10 @@
-package com.helio.http
+package com.helio.shared
 
 import com.comcast.ip4s.Port
 import com.typesafe.config._
 
 object Config {
-  val base = ConfigFactory.load().getConfig("store-locator")
+  val base = ConfigFactory.load()
   val env = Option(System.getenv("ENVIRONMENT")).getOrElse("dev")
   val config =
     if (base.hasPath(env)) base.getConfig(env).withFallback(base) else base

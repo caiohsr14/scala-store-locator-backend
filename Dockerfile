@@ -6,4 +6,4 @@ WORKDIR /www/app
 COPY . .
 
 RUN sbt compile
-ENTRYPOINT ["sbt", "run"]
+ENTRYPOINT ["sbt"]

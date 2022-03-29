@@ -3,11 +3,12 @@ package com.helio.http
 import cats.data.Kleisli
 import cats.effect._
 import com.comcast.ip4s._
+import com.helio.shared.Config
 import org.http4s.{Request, Response}
 import org.http4s.ember.server._
 import org.http4s.implicits._
 import org.http4s.server.Router
-import org.log4s.{getLogger, Logger}
+import org.log4s.{Logger, getLogger}
 
 
 object Server extends IOApp {

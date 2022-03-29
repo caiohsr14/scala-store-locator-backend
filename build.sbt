@@ -24,4 +24,5 @@ libraryDependencies ++= Seq(
   "com.typesafe"        % "config" % "1.4.2",
 )
 
-mainClass:=Option("com.helio.http.Server")
+Compile / packageBin / mainClass := Some("com.helio.http.Server")
+Compile / run / mainClass := Some("com.helio.http.Server")
