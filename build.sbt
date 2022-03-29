@@ -19,9 +19,13 @@ libraryDependencies ++= Seq(
   "org.http4s"          %% "http4s-dsl"          % Http4sVersion,
   "io.circe"            %% "circe-generic"       % CirceVersion,
   "io.circe"            %% "circe-parser"        % CirceVersion,
+  "org.scalikejdbc"     %% "scalikejdbc"         % "4.0.0",
+  "org.scalikejdbc"     %% "scalikejdbc-config"  % "4.0.0",
+  "ch.qos.logback"      %  "logback-classic"     % "1.2.11",
   // Java Libs
-  "ch.qos.logback"      % "logback-classic" % "1.2.11",
-  "com.typesafe"        % "config" % "1.4.2",
+  "ch.qos.logback"      % "logback-classic"      % "1.2.11",
+  "com.typesafe"        % "config"               % "1.4.2",
+  "org.postgresql"      % "postgresql"           % "42.3.3",
 )
 
 Compile / packageBin / mainClass := Some("com.helio.http.Server")
