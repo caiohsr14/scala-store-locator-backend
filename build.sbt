@@ -21,7 +21,6 @@ libraryDependencies ++= Seq(
   "io.circe"            %% "circe-parser"        % CirceVersion,
   "org.scalikejdbc"     %% "scalikejdbc"         % "4.0.0",
   "org.scalikejdbc"     %% "scalikejdbc-config"  % "4.0.0",
-  "ch.qos.logback"      %  "logback-classic"     % "1.2.11",
   // Java Libs
   "ch.qos.logback"      % "logback-classic"      % "1.2.11",
   "com.typesafe"        % "config"               % "1.4.2",
