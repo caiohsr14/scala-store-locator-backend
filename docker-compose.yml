@@ -9,7 +9,13 @@ services:
         condition: service_healthy
     restart: always
     ports:
-      - 10100:10100
+      - ${SERVER_PORT}:${SERVER_PORT}
+    environment:
+      - POSTGRES_USER
+      - POSTGRES_PASSWORD
+      - POSTGRES_URL
+      - SERVER_PORT
+      - MQ_API_KEY
 
   postgres:
     image: postgis/postgis:13-master
@@ -37,7 +43,7 @@ services:
 
   flyway:
     image: flyway/flyway
-    command: -url=jdbc:${POSTGRES_URL} -schemas=public -user=${POSTGRES_USER} -password=${POSTGRES_PASSWORD} -connectRetries=60 migrate
+    command: -url=${POSTGRES_URL} -schemas=public -user=${POSTGRES_USER} -password=${POSTGRES_PASSWORD} -connectRetries=60 migrate
     volumes:
       - .:/flyway/sql
     depends_on:
